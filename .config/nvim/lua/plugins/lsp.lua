@@ -57,6 +57,10 @@ end
 
 return {
   {
+    "NoahTheDuke/vim-just",
+    ft = { "just" },
+  },
+  {
     "mrcjkb/rustaceanvim",
     opts = {
       server = {
